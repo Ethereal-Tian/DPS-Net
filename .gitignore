@@ -6,4 +6,3 @@ checkpoints/pretrain/rgb-pol_vrgb-vpol_IRSDataset_epoch_99.pth
 checkpoints/pretrain/dps-net_IRS_epoch_99.pth
 log
 train_backup.py
-
