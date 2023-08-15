@@ -1,0 +1,9 @@
+.vscode
+.history
+checkpoints/checkpoint_*
+checkpoints/finetune/dps-net_SPD_epoch_147.pth
+checkpoints/pretrain/rgb-pol_vrgb-vpol_IRSDataset_epoch_99.pth
+checkpoints/pretrain/dps-net_IRS_epoch_99.pth
+log
+train_backup.py
+
