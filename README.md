@@ -44,13 +44,14 @@ python ./cmd/evaluate_rps.sh
 
 
 ## Citing
-We will highly appreciate it if you would like to cite our work via:
+We will appreciate it if you would like to cite our work via:
 ```
-@inproceedings{bao2023sine,
-    title={DPS-Net: Deep Polarimetric Stereo Depth Estimation},
-    author={Chaoran Tian, Weihong Pan, Zimo Wang, Mao Mao, Guofeng Zhang, Hujun Bao, Ping Tan, Zhaopeng Cui},
-    booktitle={The IEEE/CVF International Conference on Computer Vision (ICCV)},
-    year={2023}
+@inproceedings{tian2023dps,
+  title={DPS-Net: Deep polarimetric stereo depth estimation},
+  author={Tian, Chaoran and Pan, Weihong and Wang, Zimo and Mao, Mao and Zhang, Guofeng and Bao, Hujun and Tan, Ping and Cui, Zhaopeng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3569--3579},
+  year={2023}
 }
 ```
 # Acknowledgement
